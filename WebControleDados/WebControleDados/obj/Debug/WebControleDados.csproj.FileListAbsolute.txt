@@ -1,0 +1,4 @@
+C:\Componentes - Sistemas Fontes\Repositorio\WebServiceComControleAcesso\WebControleDados\WebControleDados\bin\WebControleDados.dll
+C:\Componentes - Sistemas Fontes\Repositorio\WebServiceComControleAcesso\WebControleDados\WebControleDados\bin\WebControleDados.pdb
+C:\Componentes - Sistemas Fontes\Repositorio\WebServiceComControleAcesso\WebControleDados\WebControleDados\obj\Debug\WebControleDados.dll
+C:\Componentes - Sistemas Fontes\Repositorio\WebServiceComControleAcesso\WebControleDados\WebControleDados\obj\Debug\WebControleDados.pdb
